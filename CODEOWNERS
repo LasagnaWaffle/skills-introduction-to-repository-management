@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LasagnaWaffle
+/src/backend/database.py      @LasagnaWaffle
+/src/backend/routers/auth.py  @LasagnaWaffle
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LasagnaWaffle
